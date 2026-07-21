@@ -1,5 +1,11 @@
 # MikroTik Hardening
 
+[![License](https://img.shields.io/badge/License-MIT-22AA55?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/vtino17/mikrotik-hardening?style=flat-square&logo=github)](https://github.com/vtino17/mikrotik-hardening/stargazers)
+[![RouterOS](https://img.shields.io/badge/RouterOS-7.x-00AEEF?style=flat-square&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
+[![Last commit](https://img.shields.io/github/last-commit/vtino17/mikrotik-hardening?style=flat-square)](https://github.com/vtino17/mikrotik-hardening/commits)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+
 Production-grade security configurations for MikroTik RouterOS v7+.
 
 This guide compiles battle-tested configurations from real deployments — not theory. Each section addresses a specific attack surface and includes copy-paste-ready RouterOS commands.
