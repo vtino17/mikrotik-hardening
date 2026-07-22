@@ -1,3 +1,6 @@
+# mikrotik-hardening
+
+[![CI](https://img.shields.io/github/actions/workflow/status/vtino17/mikrotik-hardening/ci.yml?style=flat-square&label=CI)](https://github.com/vtino17/mikrotik-hardening/actions)
 # MikroTik Hardening
 
 [![License](https://img.shields.io/badge/License-MIT-22AA55?style=flat-square)](LICENSE)
@@ -315,3 +318,4 @@ See [wazuh-custom-decoders](https://github.com/vtino17/wazuh-custom-decoders) re
 ---
 
 **Maintained by [vtino17](https://github.com/vtino17)** — contributions welcome via PR.
+
