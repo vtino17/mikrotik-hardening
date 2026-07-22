@@ -1,7 +1,6 @@
-# mikrotik-hardening
+# MikroTik Hardening
 
 [![CI](https://img.shields.io/github/actions/workflow/status/vtino17/mikrotik-hardening/ci.yml?style=flat-square&label=CI)](https://github.com/vtino17/mikrotik-hardening/actions)
-# MikroTik Hardening
 
 [![License](https://img.shields.io/badge/License-MIT-22AA55?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/vtino17/mikrotik-hardening?style=flat-square&logo=github)](https://github.com/vtino17/mikrotik-hardening/stargazers)
